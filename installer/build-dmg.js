@@ -130,10 +130,10 @@ After installation:
 📖 DOCUMENTATION
 ═══════════════════════════════════════════════════════════════
 
-Full documentation: https://github.com/StuartJAtkinson/foundry-vtt-mcp
+Full documentation: https://github.com/StuartJAtkinson/foundry-mcp-bridge
 
 Need help? Report issues at:
-https://github.com/StuartJAtkinson/foundry-vtt-mcp/issues
+https://github.com/StuartJAtkinson/foundry-mcp-bridge/issues
 
 ═══════════════════════════════════════════════════════════════
 © 2025 Foundry MCP Server

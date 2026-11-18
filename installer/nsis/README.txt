@@ -26,18 +26,18 @@ using Claude Desktop.
 • Start Menu → Foundry MCP Server → Test Connection (verify installation)
 
 📚 DOCUMENTATION:
-Complete setup guide: https://github.com/StuartJAtkinson/foundry-vtt-mcp
+Complete setup guide: https://github.com/StuartJAtkinson/foundry-mcp-bridge
 
 💡 TROUBLESHOOTING:
 If you encounter issues:
 1. Ensure Claude Desktop was restarted after installation
 2. Verify Foundry VTT has the MCP Bridge module installed and enabled
 3. Run "Test Connection" from the Start Menu
-4. Visit: https://github.com/StuartJAtkinson/foundry-vtt-mcp/issues
+4. Visit: https://github.com/StuartJAtkinson/foundry-mcp-bridge/issues
 
 🎯 SUPPORT:
-• Documentation: https://github.com/StuartJAtkinson/foundry-vtt-mcp
-• Issues: https://github.com/StuartJAtkinson/foundry-vtt-mcp/issues
+• Documentation: https://github.com/StuartJAtkinson/foundry-mcp-bridge
+• Issues: https://github.com/StuartJAtkinson/foundry-mcp-bridge/issues
 • Foundry VTT Community: https://foundryvtt.com/community
 
 Enjoy your AI-powered Foundry VTT campaigns! 🎲
